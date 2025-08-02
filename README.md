@@ -40,8 +40,8 @@ Make sure Python 3.x is installed with pandas, matplotlib, and seaborn.
 
 Run scripts in order:
 
-data_explore.py for initial exploration
+data_explore.py for initial exploration.
 
-validate_correlation.py for correlation checks
+validate_correlation.py for correlation checks.
 
-validate_visualizations.py for visualization validation
+validate_visualizations.py for visualization validation.
