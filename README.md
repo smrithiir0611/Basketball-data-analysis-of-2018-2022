@@ -1,4 +1,4 @@
-# basketball-data-analysis-of-2018-2022
+# Basketball-data-analysis-of-2018-2022
 This repository contains an analysis of college basketball team performance from 2018 to 2022. It includes data exploration, correlation analysis, and key visualizations. The project compares AI-generated insights with local analysis to validate results.
 
 Dataset:
