@@ -2,7 +2,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-# Load dataset
+# Loading of the dataset
 df = pd.read_csv('teamstats.csv')
 
 # Summary statistics for assists and points per game
