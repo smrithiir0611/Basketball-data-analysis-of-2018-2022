@@ -36,8 +36,8 @@ The dataset contains 60 records covering multiple teams and seasons. It includes
 6. barchart_viz_ctgpt.py – Bar chart of total wins per team.  
 7. histogram_validationcode.py – Histogram of points scored distribution.  
 8. scatter_validation.py – Scatter plot of assists vs points per game.  
-9. piechart_validationcode.py – Pie chart showing win percentage by team.  
-10.boxplot_validationcode.py – Box plot of points per game distribution by team.  
+9. piechart_validationcode.py – Pie chart showing win percentage by team.
+10. boxplot_validationcode.py – Box plot of points per game distribution by team.  
 11.teamstats.csv – Dataset with team stats and season information.
 
 ## How to Run
