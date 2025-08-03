@@ -1,10 +1,10 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Load dataset
+# Loading of the dataset
 df = pd.read_csv('teamstats.csv')
 
-# Calculate win percentage per team
+# Calculating win percentage per team
 team_wins = df.groupby('team')['w'].sum()
 team_games = df.groupby('team')['gp'].sum()
 win_pct = (team_wins / team_games).sort_values(ascending=False)
