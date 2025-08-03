@@ -1,8 +1,8 @@
 import pandas as pd
 
-# Load dataset
+# Loading of the dataset
 df = pd.read_csv('teamstats.csv')
 
-# Calculate total wins per team
+# To calculate total wins per team
 team_wins = df.groupby('team')['w'].sum().sort_values(ascending=False)
 print(team_wins)
