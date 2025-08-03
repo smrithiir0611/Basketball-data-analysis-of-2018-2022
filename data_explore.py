@@ -1,9 +1,8 @@
 import pandas as pd
 
-# Load dataset
+# Loading of the dataset
 df = pd.read_csv('teamstats.csv')
 
-# Basic info
 print("Dataset shape:", df.shape)
 print("\nColumns:\n", df.columns)
 print("\nFirst 5 rows:\n", df.head())
